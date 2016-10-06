@@ -31,11 +31,12 @@ Describe overall step
 2. Click on the **Settings** tab
 3. Scroll down to the *GitHub Pages* module
 4. Click **Launch automatic page generator** button
-5. Use the editor to add some dummy content (we'll edit this later)
-6. Click **Continue to layouts**
-7. Choose a themes for your proposal 
-8. Click the **Publish** button
-9. Open a browser and go to http://username.github.io/repository
+5. Play around with editing the populated document, experimenting with the markdown menu features
+6. Make some minor edits and click **Continue to layouts** (we'll come back later for further edits)
+7. Choose a themes for your proposal (`minimal` is recommended)
+8. Review, make changes if desired by clicking **edit**, and click **Publish** when finished
+9  Note the message above ("Your project page has been created at...")
+9. Open a browser and go to the URL Github made for you
 
 #### 4. Populate your proposal with a template and customize
 
