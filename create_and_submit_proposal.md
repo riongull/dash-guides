@@ -2,20 +2,40 @@
 
 This guide will walk you through the proceess of creating a dash proposal. It is adapted from the [documentation on dash.org](https://dashpay.atlassian.net/wiki/display/DOC/Using+Decentralized+Governance%3A+Proposals,+Voting,+and+Budgets).  Dash proposals are intended for submission to the dash mastenode 'distributed governance by blockchain' (DGBB) network.
 
-# Understanding Proposals
+### Understanding Proposals
 
 Describe what is necessary at the protocol level, why it is okay to use any website to host your proposal.
 
-# Step-by-step Guide
+### Step-by-step Guide
 
-## 0. Pre-requisites
+#### 1. Sign up, sign in, create new repo
 
 Describe overall step
 
 1. Post your github username or an email address on the main project page to join the community
-2. ...
+2. Wait to be added to the community organization
+3. Sign in to Github and go to https://github.com/dashcommunity
+4. Click the **plus icon** in the top, right-hand corner of the page
+5. Select **dashcommunity** in the *Owner* field
+6. Enter a name in the *Repository* field
+7. Check the *Initialize this repository with a README* box
+8. Click **Create repository** button
 
-## 1. Prepare the required data
+#### 1. Create a `gh-pages` branch
+
+Describe overall step
+
+1. Navigate to the repository you created in the previous step (if needed)
+2. Click on the **Settings** tab
+3. Scroll down to the *GitHub Pages* module
+4. Click **Launch automatic page generator** button
+5. Use the editor to add some dummy content (we'll edit this later)
+6. Click **Continue to layouts**
+7. Choose a themes for your proposal 
+8. Click the **Publish** button
+9. Open a browser and go to http://username.github.io/repository
+
+#### 1. Prepare the required data
 
 Describe overall step
 
@@ -23,7 +43,7 @@ Describe overall step
 2. ...
 
 
-## 2. Create a document detailing your proposal 
+#### 2. Create a document detailing your proposal 
 
 Describe overall step
 
@@ -32,7 +52,7 @@ Describe overall step
 2. ...
 
 
-## 3. Submit your proposal to the network
+#### 3. Submit your proposal to the network
 
 Describe overall step
 
@@ -40,7 +60,7 @@ Describe overall step
 2. ...
 
 
-### From dash.org documentation...
+##### From dash.org documentation...
 
 Preparation
 Anyone can submit a Proposal for a small fee.
