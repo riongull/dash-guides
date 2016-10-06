@@ -17,8 +17,8 @@ Describe overall step
 
 #### 2. create new repo
 3. Sign in to Github and go to https://github.com/dashcommunity
-4. Click the **plus icon** in the top, right-hand corner of the page
-5. Select **dashcommunity** in the *Owner* field
+4. Click the green **New repository** button
+5. Make sure **dashcommunity** is selected in the *Owner* field
 6. Enter a name in the *Repository* field
 7. Check the *Initialize this repository with a README* box
 8. Click **Create repository** button
