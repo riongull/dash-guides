@@ -8,12 +8,14 @@ Describe what is necessary at the protocol level, why it is okay to use any webs
 
 ### Step-by-step Guide
 
-#### 1. Sign up, sign in, create new repo
+#### 1. Join dash's community github organization
 
 Describe overall step
 
 1. Post your github username or an email address on the main project page to join the community
 2. Wait to be added to the community organization
+
+#### 2. create new repo
 3. Sign in to Github and go to https://github.com/dashcommunity
 4. Click the **plus icon** in the top, right-hand corner of the page
 5. Select **dashcommunity** in the *Owner* field
@@ -21,11 +23,11 @@ Describe overall step
 7. Check the *Initialize this repository with a README* box
 8. Click **Create repository** button
 
-#### 1. Create a `gh-pages` branch
+#### 3. Initialize a proposal
 
 Describe overall step
 
-1. Navigate to the repository you created in the previous step (if needed)
+1. Navigate to the repository you created in step 2 (if needed)
 2. Click on the **Settings** tab
 3. Scroll down to the *GitHub Pages* module
 4. Click **Launch automatic page generator** button
@@ -34,6 +36,15 @@ Describe overall step
 7. Choose a themes for your proposal 
 8. Click the **Publish** button
 9. Open a browser and go to http://username.github.io/repository
+
+#### 4. Populate your proposal with a template and customize
+
+Describe overall step
+
+1. Navigate to the repository you created in the step 1 (if needed)
+2. Click on the **Settings** tab
+2. ...
+
 
 #### 1. Prepare the required data
 
